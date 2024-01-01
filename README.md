@@ -27,7 +27,7 @@ The `orderer.py` script is designed to rename all image files in a specified fol
 
 2. **Navigate to the Script Directory:**
    - Use the `cd` command to navigate to the directory containing `orderer.py`.
-   - Example: `cd C:\Users\mx_mo\Documents\Development`
+   - Example: `cd C:\Users\dude\Documents\Development`
 
 3. **Run the Script:**
    - Execute the script with Python and provide the path to your image directory.
